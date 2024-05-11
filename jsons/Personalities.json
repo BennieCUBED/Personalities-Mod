@@ -1,14 +1,14 @@
 [
      {
 		"name": "Nebuchadnezzar",
-		"preferredVictoryType": "Victory",
-		"culture": ,
-		"faith": ,
+		"preferredVictoryType": "Cultural",
+		"culture": 5,
+		"faith": 5,
 		"food": ,
 		"gold": ,
-		"happiness": ,
-		"production": ,
-		"science": ,
+		"happiness": 5,
+		"production": 5,
+		"science": 8,
 		"military": ,
 		"priorities": {
 			"Tradition": ,
