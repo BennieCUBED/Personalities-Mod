@@ -1,7 +1,7 @@
 [
      {
 		"name": "Nebuchadnezzar",
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Scientific",
 		"culture": 5,
 		"faith": 5,
 		"food": 6,
@@ -48,16 +48,16 @@
 		},
 		"warMongering": 6,
 
-		"name": "Template",
-		"preferredVictoryType": "Victory",
-		"culture": ,
+		"name": "Wu",
+		"preferredVictoryType": "Scientific",
+		"culture": 6,
 		"faith": ,
-		"food": ,
-		"gold": ,
-		"happiness": ,
+		"food": 8,
+		"gold": 5,
+		"happiness": 6,
 		"production": ,
 		"science": ,
-		"military": ,
+		"military": 4,
 		"priorities": {
 			"Tradition": ,
 			"Liberty": ,
