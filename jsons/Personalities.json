@@ -1,1 +1,25 @@
-
+[
+     {
+		"name": "Nebuchadnezzar",
+		"preferredVictoryType": "Victory",
+		"culture": ,
+		"faith": ,
+		"food": ,
+		"gold": ,
+		"happiness": ,
+		"production": ,
+		"science": ,
+		"military": ,
+		"priorities": {
+			"Tradition": ,
+			"Liberty": ,
+			"Honor": ,
+			"Commerce": ,
+			"Patronage": ,
+			"Piety": ,
+			"Rationalism": ,
+			"Freedom": ,
+			"Autocracy": ,
+			"Order": 
+		},
+		"warMongering": ,
