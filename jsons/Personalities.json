@@ -80,7 +80,7 @@
 		"gold": 6,
 		"happiness": 6,
 		"production": 7,
-		"science": ,
+		"science": 5,
 		"military": 3,
 		"priorities": {
 			"Tradition": ,
@@ -94,6 +94,6 @@
 			"Autocracy": ,
 			"Order": 
 		},
-		"warMongering": ,
+		"warMongering": 3,
 
 	
