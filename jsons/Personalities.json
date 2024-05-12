@@ -131,6 +131,30 @@
 		"science": 7,
 		"military": 6,
 		"priorities": {
+			"Tradition": 10,
+			"Liberty": 30,
+			"Honor": 30,
+			"Commerce": 20,
+			"Patronage": 20,
+			"Piety": 10,
+			"Rationalism": 30,
+			"Freedom": 30,
+			"Autocracy": 10,
+			"Order": 20,
+		},
+		"warMongering": 8,
+	
+		"name": "Template",
+		"preferredVictoryType": "Victory",
+		"culture": ,
+		"faith": ,
+		"food": ,
+		"gold": ,
+		"happiness": ,
+		"production": ,
+		"science": ,
+		"military": ,
+		"priorities": {
 			"Tradition": ,
 			"Liberty": ,
 			"Honor": ,
@@ -143,4 +167,3 @@
 			"Order": 
 		},
 		"warMongering": ,
-	
