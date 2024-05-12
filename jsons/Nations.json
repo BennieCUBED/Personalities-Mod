@@ -203,6 +203,7 @@
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Catherine",
 
 
         "startIntroPart1": "Hail to Imperial Majesty Catherine, Empress of all Russians. Living in the largest country in the world, from the Pacific Ocean in the east to the Baltic Sea in the west, your people endured wars, droughts, and many disasters, imbuing the Russian society with heroism and tenacity, and producing artists and scientists among the best in the world. Russia is a powerful empire which rightfully claims its place in the world concert of superpowers.",
@@ -233,6 +234,7 @@
 		"adjective": ["Roman"],
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Caesar",
 
 
         "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
@@ -262,6 +264,7 @@
 		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Harun",
 
         "startIntroPart1": "Blessings of the Great God be upon you, O great caliph Harun al-Rashid, leader of the mighty Arabian people! The Muslim Empire, the Caliphate, born from chaos after the death of the prophet Muhammad in 632 AD, intended to apply the rule of God to all Earth. And by the will of God, the caliphate reached its full power, ruling Spain, North Africa, the Middle East, Anatolia, the Balkans and Persia, to even surpass the Great Roman Empire. The arts and sciences were a holy gift of Arabia during the Middle Ages, as the infidel lands of Europe delved deep into ignorance and chaos. Lasting for six hundred years, the Caliphate finally fell before the Mongols, the plague of the civilized world.",
         "startIntroPart2": "Great Caliph Harun al Rashid, all Arabian people long for greatness! Arabia must be once again the land of arts and knowledge, which under the radiant law of God, will fear no enemy! Will your new empire shine through the ages of history?",
